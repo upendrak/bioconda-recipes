@@ -29,6 +29,7 @@ requirements:
     - glpk  >=4.60
     - bzip2
     - qt
+    - seqan-library ==1.4.2
   run:
     - python
     - zlib
