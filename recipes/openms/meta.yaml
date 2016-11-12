@@ -29,7 +29,7 @@ requirements:
     - glpk  >=4.60
     - bzip2
     - qt
-    - libsvm
+    - libsvm >=3.21
     - seqan-library ==1.4.2
   run:
     - python
@@ -41,7 +41,7 @@ requirements:
     - glpk  >=4.60
     - bzip2
     - qt
-    - libsvm
+    - libsvm >=3.21
 
 test:
   commands:
