@@ -5,9 +5,9 @@ package:
   version: {{ version  }}
 
 source:
-  fn: OpenMS-{{ version }}-src-contrib-docu.zip
-  url: https://github.com/OpenMS/OpenMS/releases/download/Release{{ version }}/OpenMS-{{ version }}-src-contrib-docu.zip
-
+  fn: OpenMS-{{ version }}_src_contrib_doc.tar.gz
+  url: https://github.com/OpenMS/OpenMS/releases/download/Release{{ version }}/OpenMS-{{ version }}_src_contrib_doc.tar.gz
+       
 build:
     number: 0
     skip: True  # [osx]
