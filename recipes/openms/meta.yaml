@@ -31,6 +31,7 @@ requirements:
     - qt
     - libsvm >=3.21
     - seqan-library ==1.4.2
+    - coinmp
   run:
     - python
     - zlib
@@ -42,6 +43,7 @@ requirements:
     - bzip2
     - qt
     - libsvm >=3.21
+    - coinmp
 
 test:
   commands:

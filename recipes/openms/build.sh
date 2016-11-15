@@ -12,7 +12,7 @@ cd contrib
 #cmake . -DBUILD_TYPE=LIBSVM
 #cmake . -DBUILD_TYPE=XERCESC
 #cmake . -DBUILD_TYPE=GSL
-cmake . -DBUILD_TYPE=COINOR
+#cmake . -DBUILD_TYPE=COINOR
 #cmake . -DBUILD_TYPE=BZIP2
 #cmake . -DBUILD_TYPE=ZLIB
 #cmake . -DBUILD_TYPE=GLPK
